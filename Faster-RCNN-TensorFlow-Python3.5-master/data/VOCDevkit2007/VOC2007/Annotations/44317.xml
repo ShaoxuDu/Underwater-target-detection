@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>44317.jpg</filename>
+		<size>
+			<width>720</width>
+			<height>405</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>seaurchin</name>
+			<pose>Rear</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>87</xmin>
+				<ymin>289</ymin>
+				<xmax>146</xmax>
+				<ymax>371</ymax>
+			</bndbox>
+		</object>
+	</annotation>
